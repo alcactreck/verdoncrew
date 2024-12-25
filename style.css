@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background: #333;
+    color: white;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  main {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  #contact {
+    background: #f7f7f7;
+    padding: 20px;
+    border-top: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  #contact a {
+    color: #0077cc;
+    text-decoration: none;
+  }
+  
+  #contact a:hover {
+    text-decoration: underline;
+  }
+  project-folder/
+├── index.html
+├── style.css
+├── job-details.html
+├── job-details-marketing.html
+├── job-details-retail.html
+├── blog-article.html
